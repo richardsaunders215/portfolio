@@ -1,5 +1,5 @@
 # AI Prompt Engineer 
-
+#### Technical Skills: Python, Chat GPT, Claude, n8n, Power BI
 
 ### Education
 B.A Economics | Bucknell University at Pennsylvania (_May 2017_)
@@ -28,7 +28,7 @@ organizational needs.
 
 
 ## Play Echoverse Online- Isekai Space Explorer
-![image](https://github.com/user-attachments/assets/788cb7fb-ff2b-426a-ac7b-0fff7febf4ed)
+
 [Play Echoverse Online - Isekai Space Explore](https://chatgpt.com/g/g-uEUQ2vEJ8-play-game-echoverse-online-isekai-space-explore/c/67da7155-588c-800f-92a2-aaaae76bdf95)
 
 
