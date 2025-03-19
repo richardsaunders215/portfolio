@@ -31,5 +31,6 @@ organizational needs.
 
 [Play Echoverse Online - Isekai Space Explore](https://chatgpt.com/g/g-uEUQ2vEJ8-play-game-echoverse-online-isekai-space-explore/c/67da7155-588c-800f-92a2-aaaae76bdf95)
 
+Echoverse Online is a text-based isekai space RPG where players start on ShadowThorn, tame battle companions, and explore infinite fantasy and sci-fi-inspired planets. With an adaptive AI-driven skill tree and turn-based combat, players customize their character, master evolving abilities, and shape their own destiny among the stars.
 
 
