@@ -26,6 +26,8 @@ organizational needs.
 ## Pocket Project Manager Assistant
 [Pocket Project Manager Assistant by Rosca](https://chatgpt.com/g/g-NbeW35IfD-pocket-project-manager-assistant-by-rosca)
 
+Developed a Project Manager AI Agent that applies processes, methods, and expertise to meet project objectives within defined acceptance criteria. Designed to ensure deliverables are completed efficiently within finite **time and budget constraints**, enhancing workflow automation and strategic exec
+
 
 ## Play Echoverse Online- Isekai Space Explorer
 
