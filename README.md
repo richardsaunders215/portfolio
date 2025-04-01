@@ -23,8 +23,10 @@ organizational needs.
 
 # Projects
 
-## Evolution.AI - Created an AI Project Proposal via Chat GPT and Claude. And then created a project presentation with Gamma. 
+## Evolution.AI 
 [Evolution Presentation Link](https://gamma.app/docs/EVOLUTIONAI-Transforming-Game-Presenter-Support-a27kdlm6mhog4r8)
+
+Created an AI project proposal using both Chat GPT and Claude assistants. They then used Gamma to develop a project presentation based on this proposal.
 
 ## Pocket Project Manager Assistant
 [Pocket Project Manager Assistant by Rosca](https://chatgpt.com/g/g-NbeW35IfD-pocket-project-manager-assistant-by-rosca)
